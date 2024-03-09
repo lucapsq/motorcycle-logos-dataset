@@ -1,0 +1,94 @@
+[
+	{
+		"name": "AC Schnitzer",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/ac-schnitzer.png?raw=true"
+	},
+	{
+		"name": "Aprilia",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/aprilia.png?raw=true"
+	},
+	{
+		"name": "Benelli",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/benelli.png?raw=true"
+	},
+	{
+		"name": "Beta",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/beta.png?raw=true"
+	},
+	{
+		"name": "Bimota",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/bimota.png?raw=true"
+	},
+	{
+		"name": "Bmw",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/bmw.png?raw=true"
+	},
+	{
+		"name": "Cagiva",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/cagiva.png?raw=true"
+	},
+	{
+		"name": "Ducati",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/ducati.png?raw=true"
+	},
+	{
+		"name": "Gilera",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/gilera.png?raw=true"
+	},
+	{
+		"name": "Harley Davidson",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/harley-davidson.png?raw=true"
+	},
+	{
+		"name": "Honda",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/honda.png?raw=true"
+	},
+	{
+		"name": "Husqvarna",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/husqvarna.png?raw=true"
+	},
+	{
+		"name": "Indian Motorcycle",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/indian-motorcycle.png?raw=true"
+	},
+	{
+		"name": "Kawasaki",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/kawasaki.png?raw=true"
+	},
+	{
+		"name": "Ktm",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/ktm.png?raw=true"
+	},
+	{
+		"name": "Kymco",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/kymco.png?raw=true"
+	},
+	{
+		"name": "Moto Guzzi",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/moto-guzzi.png?raw=true"
+	},
+	{
+		"name": "MV Agusta",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/mv-agusta.png?raw=true"
+	},
+	{
+		"name": "Peugeot",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/peugeot.png?raw=true"
+	},
+	{
+		"name": "Piaggio",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/piaggio.png?raw=true"
+	},
+	{
+		"name": "Suzuki",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/suzuki.png?raw=true"
+	},
+	{
+		"name": "Triumph",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/triumph.png?raw=true"
+	},
+	{
+		"name": "Yamaha",
+		"image": "https://github.com/lucapsq/motorcycle-logos-dataset/blob/main/src/yamaha.png?raw=true"
+	}
+]
